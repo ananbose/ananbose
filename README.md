@@ -1,4 +1,4 @@
-### Hi there 👋 This is ananbose , I am updating all my leetcode solutions to my repo.
+### Hi there 👋 This is ananbose , I am updating all my leetcode solutions to the repository
 
 <!--
 **Creating a repo of all the solved problems from github
