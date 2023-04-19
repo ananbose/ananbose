@@ -1,18 +1,38 @@
 
-### Hi there 👋 This is ananbose. I am solving leetcode questions
+# Algorithms and Data Structures in Python and C++
+This repository contains implementations of various algorithms and data structures in Python and C++.
 
+## Algorithms
+### Sorting
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+### Searching
+Binary Search
+String Algorithms
+Longest Common Subsequence
+Levenshtein Distance
+### Graph Algorithms
+Breadth-First Search
+Depth-First Search
+Dijkstra's Algorithm
+Bellman-Ford Algorithm
+### Data Structures
+#### Linear Data Structures
+Array
+Linked List
+Stack
+Queue
+#### Non-Linear Data Structures
+Binary Search Tree
+Heap
+Hash Table
+Graph
 
-<!--
-**Creating a repo of all the solved problems from github
+## Contributing
+If you find any bugs or want to contribute to this repository, feel free to open a pull request or submit an issue.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## License
+This repository is licensed under the MIT License.
